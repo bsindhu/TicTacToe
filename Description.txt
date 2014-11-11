@@ -1,0 +1,5 @@
+Sindhuri Bolisetty
+January 30th 2014 
+
+Description:
+This is an online Internet program which allows only two users to play the same tic-tac-toe game. Each user starts the game locally and operates on the local 3-by-3 tic-tac-toe window that however interacts with his/her remote counterpart’s window through the Internet, so that the two users can view the same ongoing progress in their game. A peer-to-peer communicating program using non-blocking accept ( ) as well as multiple threads.
